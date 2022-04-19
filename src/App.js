@@ -109,7 +109,7 @@ function App() {
           <div className="intro">
             <h1>Weather App</h1>
             <p>Get current weather details of any city in the world !!</p>
-            <h2>Enter a City name</h2>
+            <h2>Enter a valid City name</h2>
           </div>
         )}
       </main>
