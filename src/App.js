@@ -61,7 +61,7 @@ function App() {
     <div
       className={
         typeof weather.main != "undefined"
-          ? weather.main.temp > 10
+          ? weather.main.temp > 15
             ? "app warm"
             : "app"
           : "app normal"
